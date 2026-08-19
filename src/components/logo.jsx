@@ -16,7 +16,7 @@ export function Logo({ className, dark = false }) {
             dark ? "text-dark-section-foreground" : "text-foreground",
           )}
         >
-          YANTRAKIRAYA
+          YANTRAKRIAYA
           <sup className="ml-0.5 text-[0.5rem] font-bold">™</sup>
         </span>
         <span className="text-[0.6rem] font-semibold uppercase tracking-[0.15em] text-accent">
